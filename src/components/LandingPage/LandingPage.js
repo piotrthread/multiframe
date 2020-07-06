@@ -152,7 +152,10 @@ const LandingPage = () => {
           width="100vw"
           height="auto"
         >
-          <source src="http://adsystem.pl/video/MFRAME.mp4" type="video/mp4" />
+          <source
+            src="http://adsystem.pl/video/MULTIFRAME.mp4"
+            type="video/mp4"
+          />
         </Video>
       </VideoWrapper>
       <Container>
@@ -160,12 +163,12 @@ const LandingPage = () => {
       </Container>
       <AboutMframe />
       <Container>
-        <Heading bold="Wizualizacje" thin="mframe" />
+        <Heading bold="Wizualizacje" thin="multiframe" />
         <Visuals />
-        <Heading bold="Możliwości" thin="mframe" />
+        <Heading bold="Możliwości" thin="multiframe" />
         <Animage />
         <Possibilities />
-        <Heading bold="Realizacje" thin="mframe" />
+        <Heading bold="Realizacje" thin="multiframe" />
         <Realizations />
         <Heading bold="O" thin="nas" />
       </Container>

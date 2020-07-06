@@ -9,19 +9,18 @@ import MenuListVertical from "./MenuListVertical";
 import MenuListHorizontal from "./MenuListHorizontal";
 import NavWrapper from "./NavWrapper";
 
-
 const Menu = () => {
   const { state, dispatch } = useContext(Context);
   return (
     <NavWrapper>
       <MenuWrapper>
-        <MenuLogo>mframe.</MenuLogo>
+        <MenuLogo>multiframe.</MenuLogo>
         <MenuListHorizontal />
         <HamburgerButton onClick={() => dispatch("TOGGLE_MENU")}>
           {state.menuActive ? <HamburgerIcon active /> : <HamburgerIcon />}
         </HamburgerButton>
       </MenuWrapper>
-      <MenuListVertical/>
+      <MenuListVertical />
     </NavWrapper>
   );
 };

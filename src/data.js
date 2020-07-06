@@ -1,6 +1,6 @@
 export const modals = {
   akcesoria: {
-    name: "Akcesoria",
+    name: "Modułowość",
     tags:
       "Oferujemy standardowe akcesoria do ekspozycji produktów takie jak półki czy panele na zawieszki. Dodatkowo stoisko wzbogacić możemy o TV na systemowym uchwycie, oświetlenie LED czy pomieszczenie gospodarcze z drzwiami zamykanymi na klucz.",
     info:
@@ -8,8 +8,7 @@ export const modals = {
     images: ["./images/accesories.jpg"],
   },
   wyposazenie: {
-    name: "Wyposażenie",
-    subname: "stoiska",
+    name: "Kantorek",
     tags:
       "Uzupełnimy stoisko meblami, trybunkami czy stojakami na ulotki. Wyróżnimy je logotypem za styroduru bądź logotypem podświetlanym. ",
     info:
@@ -17,8 +16,8 @@ export const modals = {
     images: ["./images/additional_stuff.jpg"],
   },
   kasetony: {
-    name: "Kasetony",
-    subname: "LED",
+    name: "Półki",
+    subname: "i zawieszki",
     tags:
       "Obawiasz się, że na stoisku będzie zbyt ciemno? Zamiast ram Mframe zastosować możemy kasetony podświetlane, kasetony dynamiczne bądź led screeny, które ożywią przestrzeń. ",
     info:
@@ -26,8 +25,8 @@ export const modals = {
     images: ["./images/lightboxes.jpg"],
   },
   podloga: {
-    name: "Podłoga",
-    subname: "systemowa",
+    name: "Uchwyt",
+    subname: "na TV",
     tags:
       "Podniesiona podłoga dodaje prestiżu. Na niej zastosować możemy wykładzinę targową bądź panele w macie lub połysku. Dodatkowo pozwoli ukryć okablowanie. ",
     info:
@@ -35,8 +34,7 @@ export const modals = {
     images: ["./images/floor.jpg"],
   },
   podwieszane: {
-    name: "Systemy",
-    subname: "podwieszane",
+    name: "Oświetlenie",
     tags:
       "Proponujemy szeroką gamę systemów rurowych oraz kasetonów, które możemy podwiesić do sufitu. Dzięki temu łatwiej będzie klientowi zlokalizować stoisko. ",
     info:
@@ -44,8 +42,8 @@ export const modals = {
     images: ["./images/hanging.jpg"],
   },
   uslugi: {
-    name: "Usługi",
-    subname: "dodatkowe",
+    name: "Torby",
+
     tags:
       "Klienci decydują się na modułowe rozwiązania nie tylko ze względu na samodzielny montaż - ich wielokrotne użycie pozwala na spore oszczędności a my oferujemy magazynowanie, logistykę, montaż i demontaż. Możesz przyjechać kiedy stoisko będzie już gotowe. ",
     info:
