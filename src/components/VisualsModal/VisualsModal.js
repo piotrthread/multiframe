@@ -69,7 +69,7 @@ const VisualsModal = () => {
     <>
       <ModalWrapper>
         <Smaller>
-          <Heading bold="Wizualizacje" thin="mframe" />
+          <Heading bold="Wizualizacje" thin="multiframe" />
         </Smaller>
         <GalleryWrapper>
           <ImageGallery

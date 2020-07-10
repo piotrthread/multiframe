@@ -113,30 +113,6 @@ export const visuals = [
     original: "./images/visuals/vis15.jpg",
     thumbnail: "./images/visuals/vis15.jpg",
   },
-  {
-    original: "./images/visuals/vis16.jpg",
-    thumbnail: "./images/visuals/vis16.jpg",
-  },
-  {
-    original: "./images/visuals/vis17.jpg",
-    thumbnail: "./images/visuals/vis17.jpg",
-  },
-  {
-    original: "./images/visuals/vis18.jpg",
-    thumbnail: "./images/visuals/vis18.jpg",
-  },
-  {
-    original: "./images/visuals/vis19.jpg",
-    thumbnail: "./images/visuals/vis19.jpg",
-  },
-  {
-    original: "./images/visuals/vis20.jpg",
-    thumbnail: "./images/visuals/vis20.jpg",
-  },
-  {
-    original: "./images/visuals/vis21.jpg",
-    thumbnail: "./images/visuals/vis21.jpg",
-  },
 ];
 
 export const reals = [
@@ -199,37 +175,5 @@ export const reals = [
   {
     original: "./images/realizacje/new/mframe_(15).jpg",
     thumbnail: "./images/realizacje/new/mframe_(15).jpg",
-  },
-  {
-    original: "./images/realizacje/new/mframe_(16).jpg",
-    thumbnail: "./images/realizacje/new/mframe_(16).jpg",
-  },
-  {
-    original: "./images/realizacje/new/mframe_(17).jpg",
-    thumbnail: "./images/realizacje/new/mframe_(17).jpg",
-  },
-  {
-    original: "./images/realizacje/new/mframe_(18).jpg",
-    thumbnail: "./images/realizacje/new/mframe_(18).jpg",
-  },
-  {
-    original: "./images/realizacje/new/mframe_(19).jpg",
-    thumbnail: "./images/realizacje/new/mframe_(19).jpg",
-  },
-  {
-    original: "./images/realizacje/new/mframe_(20).jpg",
-    thumbnail: "./images/realizacje/new/mframe_(20).jpg",
-  },
-  {
-    original: "./images/realizacje/new/mframe_(21).jpg",
-    thumbnail: "./images/realizacje/new/mframe_(21).jpg",
-  },
-  {
-    original: "./images/realizacje/new/mframe_(22).jpg",
-    thumbnail: "./images/realizacje/new/mframe_(22).jpg",
-  },
-  {
-    original: "./images/realizacje/new/mframe_(23).jpg",
-    thumbnail: "./images/realizacje/new/mframe_(23).jpg",
   },
 ];

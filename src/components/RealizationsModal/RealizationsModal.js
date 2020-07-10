@@ -70,7 +70,7 @@ const RealizationsModal = () => {
     <>
       <ModalWrapper>
         <Smaller>
-          <Heading bold="Realizacje" thin="mframe" />
+          <Heading bold="Realizacje" thin="multiframe" />
         </Smaller>
         <GalleryWrapper>
           <ImageGallery
