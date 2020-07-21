@@ -58,38 +58,49 @@ const AboutMframe = () => {
       <ImageMobile />
       <VerticalContainer>
         <Paragraph>
-          <Strong>Jeden system, wiele zastosowań, pełnia swobody.</Strong>
+          <Strong>
+            Doświadczenie – najważniejszy element współczesnego marketingu.
+          </Strong>
           <br />
           <br />
-          Mframe to nowoczesna i innowacyjna <Strong>zabudowa targowa</Strong>.
-          Jest <Strong>modułowa</Strong> i w pełni <Strong>mobilna</Strong>.
-          Nasz system zapewnia Ci to, czego najbardziej potrzebujesz – wygodę i
-          wolność użytkowania!
+          Jako Adsystem budowaliśmy je przez wiele lat, obserwując trendy.
+          Dzięki temu stworzyliśmy <Strong>modułowe zabudowy targowe</Strong>,
+          nowoczesne rozwiązanie, które pozwala Ci na przygotowanie
+          <Strong>stoiska targowego</Strong> w{" "}
+          <Strong>łatwy, szybki i bezproblemowy sposób</Strong>. Nasza oferta to
+          innowacyjny produkt, który łączy w sobie prostotę i dowolność montażu,
+          niską cenę oraz wysoką jakość.{" "}
+          <Strong>Zapraszamy do naszego biura</Strong>, którego siedzibą jest
+          Wrocław – zaproponujemy Ci rozwiązanie idealne dla Twojej firmy!
           <br />
-          Dlaczego właśnie Mframe? To proste! To wygodny w montażu, całkowicie
-          modyfikowalny system wielokrotnego użytku. Konstrukcja jest oparta na
-          prostym stelażu i wymiennych modułach. Bez trudu dopasujesz swoje
-          stoisko do każdej przestrzeni.
+          <br />
+          Dlaczego my? Budowa stoisk targowych to dla nas codzienność, a
+          konstrukcje oparte o rozwiązania Adsystem znajdziesz na wszystkich
+          targach w kraju i za granicą. Wiemy, że w dużych miastach, jak Wrocław
+          lub Warszawa, wybicie się ponad konkurencję wymaga wielu starań. To
+          właśnie tu przychodzimy z pomocą oraz efektywnie zaprojektowanym{" "}
+          <Strong>stoiskiem targowym</Strong> dopasowanym w pełni do potrzeb
+          Twojej firmy. Pomożemy Ci stworzyć <Strong>zabudowę targową</Strong>,
+          która wzmocni przekaz reklamowy i skuteczność działań pracowników
+          marketingu.
         </Paragraph>
         <Paragraph>
-          Elementy konstrukcji w systemie Mframe zostały wykonane z aluminium,
-          który nadaje im niezbędnej wytrzymałości, a jednocześnie lekkości.
-          Wypełnienie modułów to nadruk na płycie PCV lub materiale
-          poliestrowym. Taka <Strong>zabudowa stoiska targowego</Strong> nie
-          tylko będzie solidna, ale też bardzo trwała. Bez problemu użyjesz tych
-          samych elementów do budowy swojego standu na kolejnych imprezach i
-          eventach.
+          Nasza <Strong>modułowa zabudowa targowa</Strong> to system
+          wielorazowego użytku z możliwością modyfikacji. Możesz dopasować swoje{" "}
+          <Strong>stoisko</Strong> do sytuacji i bieżących potrzeb. Jeden
+          zaprojektowany dla Ciebie system sprawdzi się doskonale na wielu
+          targach, eventach, w ciągach komunikacyjnych, showroom'ach czy nawet w
+          formie ścianki brandingowej w siedzibie Twojej firmy.
           <br />
           <br />
-          Pozostaje jeszcze wygoda i mobilność. Cały system Mframe możesz złożyć
-          do pojedynczych elementów. To całkowicie upraszcza transport i
-          przechowywanie. A gdy zajdzie potrzeba, bez trudu złożysz swój stand w
-          dowolny sposób i bez narzędzi. Ogranicza Cię tylko wyobraźnia!
-          <br />
-          <br />
-          Uniwersalne elementy, wygodny montaż, solidna konstrukcja i szeroki
-          zakres modyfikacji. Czy potrzebujesz czegoś jeszcze? Nie, bo to
-          wszystkie daje Ci Mframe!
+          Konstrukcja modułów opiera się na aluminium, które nadaje elementom{" "}
+          <Strong>stabilność</Strong> i relatywnie niską wagę. Wydruki są
+          wykonane na tekstyliach metodą <Strong>sublimacji</Strong>. Materiał
+          blockoutowy nie przepuszcza światła, a dzięki domieszce stretchu nie
+          wymaga prasowania. Po założeniu na konstrukcję materiał napina się i
+          nie ma widocznych zagnieceń. Dzięki temu w transporcie możesz złożyć{" "}
+          <Strong>wydruk</Strong> w kostkę, bez obaw o uszkodzenie. Do
+          czyszczenia wystarczy Ci tylko wilgotna ściereczka.
         </Paragraph>
         <Button id="mozliwosci-hero">+ MOŻLIWOŚCI</Button>
       </VerticalContainer>
