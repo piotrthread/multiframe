@@ -2,7 +2,7 @@ export const modals = {
   akcesoria: {
     name: "Modułowość",
     tags:
-      "Oferujemy standardowe akcesoria do ekspozycji produktów takie jak półki czy panele na zawieszki. Dodatkowo stoisko wzbogacić możemy o TV na systemowym uchwycie, oświetlenie LED czy pomieszczenie gospodarcze z drzwiami zamykanymi na klucz.",
+      "Multiframe to przenośny system, z możliwością ciągłej modyfikacji. Jego modułowa konstrukcja posiada wiele zastosowań, co pozwala każdemu wystawcy na szybką zmianę grafiki i kształtu przy kolejnych eventach.",
     info:
       "Donut icing jujubes marshmallow. Bear claw tart cookie. Bear claw pastry brownie marzipan lemon drops. Icing jelly beans topping brownie lollipop jelly beans tart carrot cake. Halvah jelly-o ice cream sweet roll icing chocolate bar cake. Cheesecake sesame snaps brownie ice cream cheesecake apple pie. Icing apple pie tiramisu lollipop danish topping dessert. Bear claw sesame snaps toffee chocolate cake. Chocolate bar oat cake cupcake. Cupcake pastry oat cake carrot cake. Marzipan soufflé dragée jelly tootsie roll cookie. Cotton candy jujubes sweet roll toffee. Pastry lollipop wafer. Sesame snaps wafer tiramisu lollipop. Cupcake donut sweet roll. Topping muffin gummi bears muffin jelly beans. Gingerbread caramels apple pie sweet biscuit candy pastry. Marzipan liquorice cotton candy wafer tootsie roll. Pastry cheesecake chupa chups tart jujubes sugar plum. Oat cake ice cream chocolate cake candy canes. Gummi bears powder jelly carrot cake jelly beans. Wafer biscuit dessert dragée jelly beans. Marzipan lemon drops lemon drops gingerbread bear claw sweet roll marzipan toffee. Dessert gummies caramels.",
     images: ["./images/accesories.jpg"],
@@ -10,7 +10,7 @@ export const modals = {
   wyposazenie: {
     name: "Kantorek",
     tags:
-      "Uzupełnimy stoisko meblami, trybunkami czy stojakami na ulotki. Wyróżnimy je logotypem za styroduru bądź logotypem podświetlanym. ",
+      "Systemowe drzwi, dzięki którym możemy zbudować pomieszczenie gospodarcze. Zamykane na klucz z grafikami dookoła. ",
     info:
       "Donut icing jujubes marshmallow. Bear claw tart cookie. Bear claw pastry brownie marzipan lemon drops. Icing jelly beans topping brownie lollipop jelly beans tart carrot cake. Halvah jelly-o ice cream sweet roll icing chocolate bar cake. Cheesecake sesame snaps brownie ice cream cheesecake apple pie. Icing apple pie tiramisu lollipop danish topping dessert. Bear claw sesame snaps toffee chocolate cake. Chocolate bar oat cake cupcake. Cupcake pastry oat cake carrot cake. Marzipan soufflé dragée jelly tootsie roll cookie. Cotton candy jujubes sweet roll toffee. Pastry lollipop wafer. Sesame snaps wafer tiramisu lollipop. Cupcake donut sweet roll. Topping muffin gummi bears muffin jelly beans. Gingerbread caramels apple pie sweet biscuit candy pastry. Marzipan liquorice cotton candy wafer tootsie roll. Pastry cheesecake chupa chups tart jujubes sugar plum. Oat cake ice cream chocolate cake candy canes. Gummi bears powder jelly carrot cake jelly beans. Wafer biscuit dessert dragée jelly beans. Marzipan lemon drops lemon drops gingerbread bear claw sweet roll marzipan toffee. Dessert gummies caramels.",
     images: ["./images/additional_stuff.jpg"],
@@ -19,7 +19,7 @@ export const modals = {
     name: "Półki",
     subname: "i zawieszki",
     tags:
-      "Obawiasz się, że na stoisku będzie zbyt ciemno? Zamiast ram Mframe zastosować możemy kasetony podświetlane, kasetony dynamiczne bądź led screeny, które ożywią przestrzeń. ",
+      "Kompatybilne półki do ekspozycji produktu, na gadżety bądź katalogi. Półki mogą być podświetlane, można w nich również zamontować drążek na wieszaki.",
     info:
       "Donut icing jujubes marshmallow. Bear claw tart cookie. Bear claw pastry brownie marzipan lemon drops. Icing jelly beans topping brownie lollipop jelly beans tart carrot cake. Halvah jelly-o ice cream sweet roll icing chocolate bar cake. Cheesecake sesame snaps brownie ice cream cheesecake apple pie. Icing apple pie tiramisu lollipop danish topping dessert. Bear claw sesame snaps toffee chocolate cake. Chocolate bar oat cake cupcake. Cupcake pastry oat cake carrot cake. Marzipan soufflé dragée jelly tootsie roll cookie. Cotton candy jujubes sweet roll toffee. Pastry lollipop wafer. Sesame snaps wafer tiramisu lollipop. Cupcake donut sweet roll. Topping muffin gummi bears muffin jelly beans. Gingerbread caramels apple pie sweet biscuit candy pastry. Marzipan liquorice cotton candy wafer tootsie roll. Pastry cheesecake chupa chups tart jujubes sugar plum. Oat cake ice cream chocolate cake candy canes. Gummi bears powder jelly carrot cake jelly beans. Wafer biscuit dessert dragée jelly beans. Marzipan lemon drops lemon drops gingerbread bear claw sweet roll marzipan toffee. Dessert gummies caramels.",
     images: ["./images/lightboxes.jpg"],
@@ -28,7 +28,7 @@ export const modals = {
     name: "Uchwyt",
     subname: "na TV",
     tags:
-      "Podniesiona podłoga dodaje prestiżu. Na niej zastosować możemy wykładzinę targową bądź panele w macie lub połysku. Dodatkowo pozwoli ukryć okablowanie. ",
+      "Dzięki systemowemu uchwytowi, na ścianie możemy powiesić niemal każdy model telewizora z rozstawem VESA max 600x400. Rekomendujemy TV 40-42' ze względu na szerokość jednego modułu.",
     info:
       "Donut icing jujubes marshmallow. Bear claw tart cookie. Bear claw pastry brownie marzipan lemon drops. Icing jelly beans topping brownie lollipop jelly beans tart carrot cake. Halvah jelly-o ice cream sweet roll icing chocolate bar cake. Cheesecake sesame snaps brownie ice cream cheesecake apple pie. Icing apple pie tiramisu lollipop danish topping dessert. Bear claw sesame snaps toffee chocolate cake. Chocolate bar oat cake cupcake. Cupcake pastry oat cake carrot cake. Marzipan soufflé dragée jelly tootsie roll cookie. Cotton candy jujubes sweet roll toffee. Pastry lollipop wafer. Sesame snaps wafer tiramisu lollipop. Cupcake donut sweet roll. Topping muffin gummi bears muffin jelly beans. Gingerbread caramels apple pie sweet biscuit candy pastry. Marzipan liquorice cotton candy wafer tootsie roll. Pastry cheesecake chupa chups tart jujubes sugar plum. Oat cake ice cream chocolate cake candy canes. Gummi bears powder jelly carrot cake jelly beans. Wafer biscuit dessert dragée jelly beans. Marzipan lemon drops lemon drops gingerbread bear claw sweet roll marzipan toffee. Dessert gummies caramels.",
     images: ["./images/floor.jpg"],
@@ -36,7 +36,7 @@ export const modals = {
   podwieszane: {
     name: "Oświetlenie",
     tags:
-      "Proponujemy szeroką gamę systemów rurowych oraz kasetonów, które możemy podwiesić do sufitu. Dzięki temu łatwiej będzie klientowi zlokalizować stoisko. ",
+      "Dwa rodzaje lampek, które zawierają 60 lub 116 diod LED. Bardzo dobrze doświetlają grafiki założone na ściankach. Model ze 116 diodami pozwala na łączenie szeregowe lampek, dzięki czemu do zasilania wpinamy tylko jeden przewód. ",
     info:
       "Donut icing jujubes marshmallow. Bear claw tart cookie. Bear claw pastry brownie marzipan lemon drops. Icing jelly beans topping brownie lollipop jelly beans tart carrot cake. Halvah jelly-o ice cream sweet roll icing chocolate bar cake. Cheesecake sesame snaps brownie ice cream cheesecake apple pie. Icing apple pie tiramisu lollipop danish topping dessert. Bear claw sesame snaps toffee chocolate cake. Chocolate bar oat cake cupcake. Cupcake pastry oat cake carrot cake. Marzipan soufflé dragée jelly tootsie roll cookie. Cotton candy jujubes sweet roll toffee. Pastry lollipop wafer. Sesame snaps wafer tiramisu lollipop. Cupcake donut sweet roll. Topping muffin gummi bears muffin jelly beans. Gingerbread caramels apple pie sweet biscuit candy pastry. Marzipan liquorice cotton candy wafer tootsie roll. Pastry cheesecake chupa chups tart jujubes sugar plum. Oat cake ice cream chocolate cake candy canes. Gummi bears powder jelly carrot cake jelly beans. Wafer biscuit dessert dragée jelly beans. Marzipan lemon drops lemon drops gingerbread bear claw sweet roll marzipan toffee. Dessert gummies caramels.",
     images: ["./images/hanging.jpg"],
@@ -45,7 +45,7 @@ export const modals = {
     name: "Torby",
 
     tags:
-      "Klienci decydują się na modułowe rozwiązania nie tylko ze względu na samodzielny montaż - ich wielokrotne użycie pozwala na spore oszczędności a my oferujemy magazynowanie, logistykę, montaż i demontaż. Możesz przyjechać kiedy stoisko będzie już gotowe. ",
+      "Do wyboru klienta są torby mieszczące 16 profili czyli ściankę 300x250cm bez kółek (waga zapakowanej torby to 35kg), bądź o połowę mniejsze torby mieszczące 8 profili na kółkach (waga zapakowanej torby 22kg). ",
     info:
       "Donut icing jujubes marshmallow. Bear claw tart cookie. Bear claw pastry brownie marzipan lemon drops. Icing jelly beans topping brownie lollipop jelly beans tart carrot cake. Halvah jelly-o ice cream sweet roll icing chocolate bar cake. Cheesecake sesame snaps brownie ice cream cheesecake apple pie. Icing apple pie tiramisu lollipop danish topping dessert. Bear claw sesame snaps toffee chocolate cake. Chocolate bar oat cake cupcake. Cupcake pastry oat cake carrot cake. Marzipan soufflé dragée jelly tootsie roll cookie. Cotton candy jujubes sweet roll toffee. Pastry lollipop wafer. Sesame snaps wafer tiramisu lollipop. Cupcake donut sweet roll. Topping muffin gummi bears muffin jelly beans. Gingerbread caramels apple pie sweet biscuit candy pastry. Marzipan liquorice cotton candy wafer tootsie roll. Pastry cheesecake chupa chups tart jujubes sugar plum. Oat cake ice cream chocolate cake candy canes. Gummi bears powder jelly carrot cake jelly beans. Wafer biscuit dessert dragée jelly beans. Marzipan lemon drops lemon drops gingerbread bear claw sweet roll marzipan toffee. Dessert gummies caramels.",
     images: ["./images/more.jpg"],
