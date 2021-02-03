@@ -63,6 +63,10 @@ const LandingPage = () => {
         "slow"
       );
     });
+    $("#wytycznebutton").on("click", function () {
+      window.location.href =
+        "http://adsystem.pl/multiframe/Wytyczne_MULTIFRAME.rar";
+    });
     $("#onasbutton").on("click", function () {
       $("html,body").animate(
         {
@@ -113,6 +117,10 @@ const LandingPage = () => {
         },
         "slow"
       );
+    });
+    $("#wytyczne-vert").on("click", function () {
+      window.location.href =
+        "http://adsystem.pl/multiframe/Wytyczne_MULTIFRAME.rar";
     });
     $("#realizacje-vert").on("click", function () {
       $("html,body").animate(

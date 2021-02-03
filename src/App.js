@@ -14,7 +14,7 @@ const App = () => {
   return (
     <StateProvider>
       <GlobalStyle />
-      <Router basename="/">
+      <Router basename="/multiframe/">
         {/* {Object.keys(modals).map((id, index) => {
           return (
             <Route path={`/${id}`} key={index}>
@@ -29,6 +29,9 @@ const App = () => {
           <RealizationsModal />
         </Route>
         <Route exact path="/">
+          <LandingPage />
+        </Route>
+        <Route exact path="/index.php">
           <LandingPage />
         </Route>
       </Router>

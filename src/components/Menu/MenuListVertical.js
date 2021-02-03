@@ -40,6 +40,12 @@ const MenuListVertical = () => {
         możliwości
       </VerticalListItem>
       <VerticalListItem
+        id="wytyczne-vert"
+        onClick={() => dispatch("TOGGLE_MENU")}
+      >
+        wytyczne
+      </VerticalListItem>
+      <VerticalListItem
         id="kontakt-vert"
         onClick={() => dispatch("TOGGLE_MENU")}
       >
